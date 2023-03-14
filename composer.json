@@ -1,0 +1,19 @@
+{
+    "name": "luisafischer157/logger",
+    "description": "A library to log data.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Luisafischer157\\Logger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luisa Fischer",
+            "email": "lfischer@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
